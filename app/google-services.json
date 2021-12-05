@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739690685749",
+    "project_id": "xbet-363c0",
+    "storage_bucket": "xbet-363c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739690685749:android:4f00943912910ad5f8d87c",
+        "android_client_info": {
+          "package_name": "com.one1xbet.onlineappof1xbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739690685749-nnmk6jvrnvopjpgaeu0657btvf8oeg4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpmABu8kzOK86JNRISbuTDanLB7glwwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739690685749-nnmk6jvrnvopjpgaeu0657btvf8oeg4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
